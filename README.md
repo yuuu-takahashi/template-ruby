@@ -4,11 +4,11 @@
 
 ## 開発環境のセットアップ
 
-### 前提条件
+### 準備
 
-- [VS Code](https://code.visualstudio.com/)がインストール済みであること
-- [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)がインストール済みであること
-- [Docker](https://www.docker.com/ja-jp/)がインストール済みであること
+- [VS Code](https://code.visualstudio.com/)をインストール
+- [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)をインストール
+- [Docker](https://www.docker.com/ja-jp/)をインストール
 
 ### セットアップ手順
 
